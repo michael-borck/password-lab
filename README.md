@@ -1,4 +1,8 @@
 # Password Security & Ethical Hacking Lab
+
+<!-- BADGES:START -->
+[![cybersecurity](https://img.shields.io/badge/-cybersecurity-f44336?style=flat-square)](https://github.com/topics/cybersecurity) [![docker](https://img.shields.io/badge/-docker-2496ed?style=flat-square)](https://github.com/topics/docker) [![edtech](https://img.shields.io/badge/-edtech-4caf50?style=flat-square)](https://github.com/topics/edtech) [![ethical-hacking](https://img.shields.io/badge/-ethical--hacking-blue?style=flat-square)](https://github.com/topics/ethical-hacking) [![hands-on-lab](https://img.shields.io/badge/-hands--on--lab-blue?style=flat-square)](https://github.com/topics/hands-on-lab) [![password-security](https://img.shields.io/badge/-password--security-blue?style=flat-square)](https://github.com/topics/password-security) [![penetration-testing](https://img.shields.io/badge/-penetration--testing-blue?style=flat-square)](https://github.com/topics/penetration-testing) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![security-education](https://img.shields.io/badge/-security--education-blue?style=flat-square)](https://github.com/topics/security-education) [![shell](https://img.shields.io/badge/-shell-blue?style=flat-square)](https://github.com/topics/shell)
+<!-- BADGES:END -->
 ## CYB204 Ethical Hacking - Hands-on Password Security Module
 
 A comprehensive, beginner-friendly lab environment for teaching password security, ethical hacking principles, and professional penetration testing techniques.
