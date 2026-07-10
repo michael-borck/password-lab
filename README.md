@@ -1,3 +1,10 @@
+> [!NOTE]
+> **This repository is archived and read-only.**
+>
+> It has been superseded by [**ethical-hacking-docker-labs**](https://github.com/michael-borck/ethical-hacking-docker-labs), where this lab is maintained as [`labs/week6`](https://github.com/michael-borck/ethical-hacking-docker-labs/tree/main/labs/week6). The maintained version pulls the prebuilt `ghcr.io/michael-borck/ethical-base` image rather than installing tools at container start, and `worksheet.md` now lives there as `LAB-GUIDE.md`.
+>
+> Please use the lab series instead. This repository is preserved for reference only.
+
 # Password Security & Ethical Hacking Lab
 
 <!-- BADGES:START -->
